@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Toccini/Toccini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Eduardo Toccini!
 
-Here are some ideas to get you started:
+🎯 **Desenvolvedor Front-End Iniciante** | 💻 **Aprendendo React & JavaScript** | 🚀 **Em busca da primeira oportunidade**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white)](https://toccini.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-toccini)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.toccini@outlook.com.br)
+
+</div>
+
+## 📚 **Sobre Mim**
+
+```javascript
+const eduardo = {
+  nome: "Eduardo Toccini",
+  nivel: "Desenvolvedor Iniciante",
+  foco: "Front-End",
+  aprendendo: ["React", "JavaScript", "CSS", "HTML"],
+  objetivos: [
+    "Primeira oportunidade como Dev",
+    "Aperfeiçoar habilidades em React",
+    "Explorar Node.js no back-end"
+  ],
+  hobbies: ["Tecnologia", "Games", "Música"]
+};
