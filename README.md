@@ -11,10 +11,10 @@
   <a href="https://toccini.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-toccini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:eduardo.toccini@outlook.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
