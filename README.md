@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Desenvolvedor Front-End | React | JavaScript
+  🚀 Desenvolvedor Full-Stack | React | Vite | Next.js | SQL | Python
 </h3>
 
 <p align="center">
